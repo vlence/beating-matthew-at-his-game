@@ -1,0 +1,14 @@
+{
+  "name": "beating-matthew-at-his-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vlence/beating-matthew-at-his-game.git",
+  "author": "Victor Basumatary",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
